@@ -1,0 +1,11 @@
+# compiled binaries
+*.o
+gmail-broom
+
+# config
+config.txt
+token.txt
+
+# IDE or system files
+*.swp
+.DS_Store
